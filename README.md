@@ -1,7 +1,3 @@
-# Web 3.0 Crypto exchange 
+# krypt-blockhain-app
 
-## Contact
-
-Serhii Filkovskyi - [email](mailto:filkovskyi@fmail.com)
-
-Project Link: [https://firstcryptoechange.netlify.app/](https://firstcryptoechange.netlify.app/)
+please chek [live demo](https://sweet-monstera-231ebf.netlify.app/)
